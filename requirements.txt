@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+python-docx
+PyMuPDF
+python-dotenv
+paddleocr
+pillow
+opencv-python-headless
+numpy
